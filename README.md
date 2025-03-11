@@ -43,7 +43,7 @@
 
 ## Resultado:
 <p align="center">
-  <img src="images/decision_tree.png" alt="Matriz" width="400"/>
+  <img src="images/decision_tree.png" alt="Matriz" width="800"/>
 </p>
 
 ## Licença
